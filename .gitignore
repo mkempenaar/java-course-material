@@ -2,9 +2,6 @@
 .gradle/
 out/
 build/
-gradle/
 build.xml
-gradlew
-gradlew.bat
 *.iml
 /build.xml
